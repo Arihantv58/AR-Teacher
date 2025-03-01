@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "587327316244",
+    "project_id": "arelearning-1bcd8",
+    "storage_bucket": "arelearning-1bcd8.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:587327316244:android:f5d0c691e1297698ad6201",
+        "android_client_info": {
+          "package_name": "com.ADHRIT.ARTeacher"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8RN53yG2kWevrYf_nRKzq7kj7hbbNa0o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
